@@ -25,4 +25,4 @@
 我们的平台设计简洁、易于操作。每个影片页面都有详细介绍、演员资料及评论，帮助你做出选择。分类清晰，推荐功能强大，让你轻松找到更多精彩影片。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hdd452/257888 ）</span>
